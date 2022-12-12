@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Martins</h1>
-<h3 align="center">A passionate fullstack developer with experience in law and great finance enthusiast.</h3>
+<h3 align="center">A passionate fullstack developer with experience in law and stock market enthusiast.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
