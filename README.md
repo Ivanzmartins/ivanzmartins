@@ -12,13 +12,13 @@
 ## **GitHub Statistics**
 <div align="center">
 <a href="https://github.com/Ivanzmartins">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanzmartins&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"  heigth="160em" width="400px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanzmartins&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"  heigth="160em" width="420"/>
 </a>
 
 <a href="https://github.com/Ivanzmartins">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ivanzmartins&show_icons=true&theme=dark&line_height=33&count_private=true" alt="**Ivan Martins* github stats" heigth="160em" width="420px"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ivanzmartins&show_icons=true&theme=dark&line_height=33&count_private=true" alt="**Ivan Martins* github stats" heigth="160em" width="420px"/>
 </a>
-
+<br>
 <h3 align="left">Contact me:</h3>
 <!-- <p align="left">
  <a href="mailto:ivanzmartins@gmail.com">
