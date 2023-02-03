@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://github.com/Ivanzmartins">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ivanzmartins&show_icons=true&theme=dark&line_height=33&count_private=true" alt="**Ivan Martins* github stats" heigth="160em" width="420px"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ivanzmartins&show_icons=true&theme=dark&line_height=33&count_private=true" alt="**Ivan Martins* github stats" heigth="160em" width="400"/>
 </a>
 <br>
 <h3 align="left">Contact me:</h3>
