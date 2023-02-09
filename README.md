@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Martins</h1>
-<h3 align="center">A passionate fullstack developer with experience in law and stock market enthusiast.</h3>
+💻 A Full Stack Developer experienced in both front-end and back-end development, with a preference for the backend. Committed to delivering high-quality web solutions, while continuously learning and staying up-to-date with industry advancements.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,6 +31,9 @@
 #### Testing
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%233572B0?style=for-the-badge&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/-chai-%2349C26E?style=for-the-badge&logo=chai&logoColor=white)
+
 #### Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
