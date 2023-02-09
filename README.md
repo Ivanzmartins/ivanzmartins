@@ -67,5 +67,3 @@
 <a href="tel:+5511984627492">
   <img alt="Phone" src="https://img.shields.io/badge/Phone-%2B55%2011%20984627492-success.svg?style=flat-square">
 </a>
-[![Visitors](https://profile-counter.glitch.me/Ivanzmartins/count.svg)](https://github.com/Ivanzmartins)
-
